@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-           Amit has designed a dynamic e-commerce website that allows users to browse various products and make purchases online easily.
+           This been has designed a dynamic e-commerce website that allows users to browse various products and make purchases online easily.
           </p>
         </div>
 
@@ -44,7 +44,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        Amit E-Commerce
+         E-Commerce
       </p>
     </footer>
   );
